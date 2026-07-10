@@ -57,19 +57,24 @@ CloudWatch for backend monitoring
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1917" height="972" alt="Dashboard" src="https://github.com/user-attachments/assets/7c18c959-9860-4372-8615-641fca636ec4" />
+)
 
 ### AWS S3 Receipt Upload
-![S3](screenshots/s3.png)
+![S3](<img width="1917" height="900" alt="S3 bucket" src="https://github.com/user-attachments/assets/d1544572-0841-421e-8416-ddd1c4dfa25c" />
+)
 
 ### DynamoDB Logs
-![DynamoDB](screenshots/dynamodb.png)
+![DynamoDB](<img width="1917" height="955" alt="DynamoDB" src="https://github.com/user-attachments/assets/ac3cf87f-40d4-4cc3-bbd7-f0c0352ab9cd" />
+)
 
 ### CloudWatch Logs
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch](<img width="1917" height="952" alt="Cloudwatch" src="https://github.com/user-attachments/assets/d8228ed4-a5ea-4db6-8917-f6cfedfccd70" />
+)
 
 ### AWS Cognito
-![Cognito](screenshots/cognito.png)
+![Cognito](<img width="1917" height="962" alt="Cognito" src="https://github.com/user-attachments/assets/c56a0b49-821b-4f78-a600-e13e478d2cf4" />
+)
 
 ## Setup Instructions
 
